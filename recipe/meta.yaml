@@ -31,7 +31,7 @@ requirements:
     - r-config >=0.2
     - r-dbplyr >=1.1.0
     - r-digest
-    - r-dplyr >=0.7.2
+    - r-dplyr >=0.8.0
     - r-ellipsis >=0.1.0
     - r-forge
     - r-generics
@@ -56,7 +56,7 @@ requirements:
     - r-config >=0.2
     - r-dbplyr >=1.1.0
     - r-digest
-    - r-dplyr >=0.7.2
+    - r-dplyr >=0.8.0
     - r-ellipsis >=0.1.0
     - r-forge
     - r-generics
